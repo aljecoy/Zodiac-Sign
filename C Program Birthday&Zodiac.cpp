@@ -1,3 +1,4 @@
+//This program will printout you zodiac sign base on your birthdate.
 #include <stdio.h>
 
 int main()
